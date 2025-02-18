@@ -1,6 +1,6 @@
-#define GREEN_LED 3
-#define YELLOW_LED 5
-#define RED_LED 7
+#define GREEN_LED 9
+#define YELLOW_LED 10
+#define RED_LED 11
 
 unsigned long previousMillis = 0;
 int state = 0;

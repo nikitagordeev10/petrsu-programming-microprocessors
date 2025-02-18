@@ -16,3 +16,4 @@
 - Уроки Arduino // R9AL URL: https://r9al.ru/2021/arduino/index.htm
 - Arduino, Синтаксис языка (C++ & Wiring) // Dzen URL: https://dzen.ru/a/Y7k1sZvRNhnioXqz
 - Как программируют Arduino // Код URL: https://thecode.media/arduino-code/
+- Уроки Arduino для начинающих на русском // РобоТехника18 URL: https://роботехника18.рф/робототехника-ардуино/
