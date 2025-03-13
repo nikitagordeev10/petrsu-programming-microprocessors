@@ -1,4 +1,6 @@
 *.pdf
+*.pptx
+!доклад.pdf
 /007_working_with_led_strip_clover_2/архив
 /006_flying_marker_map_with_raspberry_pi_clover_2/архив
 /005_assembly_and_setup_of_quadcopter_clover_2/архив
